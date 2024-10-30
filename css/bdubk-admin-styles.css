@@ -1,0 +1,39 @@
+/* Admin styles for Bulk Delete Users by Keyword plugin */
+
+.wrap h2 {
+    font-size: 24px;
+    color: #0073aa;
+    margin-bottom: 20px;
+}
+
+.wrap table.form-table th {
+    font-weight: 600;
+    padding: 10px;
+}
+
+.wrap table.form-table td {
+    padding: 10px;
+}
+
+.wrap input.regular-text {
+    width: 100%;
+    max-width: 400px;
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.wrap input[type="submit"] {
+    background-color: #0073aa;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.wrap input[type="submit"]:hover {
+    background-color: #006799;
+}
